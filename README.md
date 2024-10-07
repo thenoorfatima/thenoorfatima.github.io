@@ -30,7 +30,7 @@ Master’s in Computer Applications, Department of Computer Science, Aligarh Mus
 -	<b>A systematic literature review of attribute-based encryption in health services</b> 2022 Journal of King Saud University-Computer and Information Sciences, Elsevier.
 -	<b>Siamese Network-Based Computer Vision Approach to Detect Papaya Seed Adulteration in Black Peppercorns</b> 2021 Journal of Food Processing and Preservation, Wiley (First & Corresponding Author).
 -	<b>Enhancing Performance of a Deep Neural Network: A Comparative Analysis of Optimization Algorithms</b> 2020 Advances in Distributed Computing and Artificial Intelligence Journal (Single Author).
-<br>
+<br><br><br>
 
 <h2 align="center"> Conference Proceedings </h2>
 
@@ -44,6 +44,6 @@ Master’s in Computer Applications, Department of Computer Science, Aligarh Mus
 -	<b>AI Art Critic: Artistic Classification of Poster Images using Neural Networks</b> 2021 2nd International Conference on Data Analytics for Business and Industry (Corresponding Author). 
 -	<b>Machine Learning-based Metal Toxicity Prediction and Analysis of River Ramganga</b> 2021 National Conference on Advancements in Electronics, Computers and IT (First & Corresponding Author).
 -	<b>AI in Photography: Scrutinizing Implementation of Super-Resolution Techniques in Photo-Editors</b> 35th International Conference on Image and Vision Computing New Zealand (Single Author).
-<br><br><br><br><br>
+<br><br><br>
 
 <h3 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h3>
